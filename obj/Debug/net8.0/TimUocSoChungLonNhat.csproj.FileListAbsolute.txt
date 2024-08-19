@@ -1,0 +1,14 @@
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\bin\Debug\net8.0\TimUocSoChungLonNhat.exe
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\bin\Debug\net8.0\TimUocSoChungLonNhat.deps.json
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\bin\Debug\net8.0\TimUocSoChungLonNhat.runtimeconfig.json
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\bin\Debug\net8.0\TimUocSoChungLonNhat.dll
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\bin\Debug\net8.0\TimUocSoChungLonNhat.pdb
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.dll
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\refint\TimUocSoChungLonNhat.dll
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.pdb
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\TimUocSoChungLonNhat.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\7\TimUocSoChungLonNhat\obj\Debug\net8.0\ref\TimUocSoChungLonNhat.dll
